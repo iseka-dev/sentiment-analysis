@@ -3,3 +3,6 @@
 
 #ignore jupyter checkpoints
 /.ipynb_checkpoints
+
+#ignore .pkl file with stored model (large > 100 MB)
+.sentiment.pkl
