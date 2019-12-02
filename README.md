@@ -10,4 +10,4 @@ In the notebook [deployment.ipynb](https://github.com/iseka-dev/sentiment-analys
 
 Tools: SVC, tfidfVEctorizer, RandomForestClassifier, Multilayer Perceptron (MLPClassifier), AdaBoost, VotingClassifier, ROC-AUC score, IBM Cloud, Watson AP
 
-:arrow_right: This project was developes as an activity of the ACAMICA DATA SCIENCE COURSE
+:arrow_right: This project was developed as an activity of the ACAMICA DATA SCIENCE course.
