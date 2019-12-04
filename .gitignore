@@ -6,3 +6,6 @@
 
 #ignore .pkl file with stored model (large > 100 MB)
 sentiment.pkl
+
+#ignore file with apikeys
+apikeys.json
